@@ -61,7 +61,6 @@ void seperation()
     string name2;
     ifstream inf1("File1");
     ofstream info1("Facet");
-   /// info1<<"o cube"<<endl;
     while(!inf1.eof())
     {
         int p=0;
