@@ -245,4 +245,3 @@ void delete_line2(const char *file_name, int n)
     ofs.close();
     is.close();
 }
-#
